@@ -1,5 +1,5 @@
 
-<!-- Frutiger Aero profile -->
+<!-- profile -->
 
 <p align="center">
   <img
@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="./assets/aero-header.png"
+    src="./assets/banner.png"
     width="100%"
     alt="Bright blue sky and green landscape"
   />
@@ -314,4 +314,3 @@ I'm interested in joining a team where I can contribute, learn from experienced 
     alt=""
   />
 </p>
-```
