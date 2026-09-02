@@ -16,9 +16,6 @@
   React · Vue.js · JavaScript · Responsive Web Development
 </p>
 
-<p align="center">
-  <sub>Building clear, functional and pleasant digital experiences.</sub>
-</p>
 
 <p align="center">
   <a href="https://portafoliofrann.netlify.app/">
