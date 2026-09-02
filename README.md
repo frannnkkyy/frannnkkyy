@@ -9,14 +9,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="./assets/banner.png"
-    width="100%"
-    alt="Bright blue sky and green landscape"
-  />
-</p>
-
 <h1 align="center">Carlos Constantino</h1>
 
 <p align="center">
