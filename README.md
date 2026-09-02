@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="./assets/frutiger-banner.png"
+    src="./assets/windows.jpg"
     width="100%"
     alt="Carlos Constantino — Junior Frontend Developer"
   />
