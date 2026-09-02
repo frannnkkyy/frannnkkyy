@@ -1,9 +1,9 @@
 
 <p align="center">
   <img
-    src="./assets/windows.jpg"
-    width="620"
-    alt="Green landscape under a bright blue sky"
+    src="./assets/frutiger-banner.png"
+    width="100%"
+    alt="Carlos Constantino — Junior Frontend Developer"
   />
 </p>
 
@@ -11,118 +11,127 @@
 
 <p align="center">
   <strong>Junior Frontend Developer</strong><br>
-  React · Vue.js · JavaScript
+  Building responsive and functional web experiences
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reynosa-Mexico-48A9E6?style=flat-square" alt="Location: Reynosa, Mexico">
-  <img src="https://img.shields.io/badge/English-B2-55B96D?style=flat-square" alt="English B2">
+  <img src="https://img.shields.io/badge/JavaScript-1976D2?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-2196F3?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-56B870?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Remote-Available-65CFA3?style=flat-square" alt="Available for remote work">
 </p>
 
 <p align="center">
   <a href="https://portafoliofrann.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-1976D2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-1976D2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/fcoocarlos/">
-    <img src="https://img.shields.io/badge/LinkedIn-4AADE8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-42A5F5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:carlosfran.constantino@outlook.com">
-    <img src="https://img.shields.io/badge/Email-58B96F?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/CONTACT-58B96F?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-## About me
+## Profile
 
-I'm a Software Development graduate and **Junior Frontend Developer** from Reynosa, Mexico.
+I'm a Software Development graduate and **Junior Frontend Developer** based in Reynosa, Mexico.
 
-I build responsive web and mobile applications using JavaScript, React and Vue.js. I enjoy translating real-world processes into interfaces that are clear, functional and pleasant to use.
+I create responsive web and mobile applications with JavaScript, React and Vue.js. I enjoy transforming real-world processes into interfaces that are clear, functional and pleasant to use.
 
-During my internship at **Prologis**, I developed and delivered a pilot internal PWA for capturing, consulting and comparing historical water and electricity readings across different properties.
+During my internship at **Prologis**, I developed and delivered a pilot internal PWA for managing and comparing historical water and electricity readings across different properties.
 
-Currently, I'm strengthening my knowledge of TypeScript, frontend testing and software development best practices while looking for a remote junior opportunity.
+<table>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Reynosa, Mexico</td>
+    <td><strong>English</strong></td>
+    <td>B2</td>
+  </tr>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>Frontend Development</td>
+    <td><strong>Availability</strong></td>
+    <td>Remote opportunities</td>
+  </tr>
+</table>
 
-## Technologies
+## Technology stack
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=js,react,vue,html,css,tailwind,vite,nodejs,supabase,firebase,mysql,git,github,postman,figma,vscode&perline=9"
-    alt="JavaScript, React, Vue, HTML, CSS, Tailwind, Vite, Node.js, Supabase, Firebase, MySQL, Git, GitHub, Postman, Figma and Visual Studio Code"
+    src="https://skillicons.dev/icons?i=js,react,vue,html,css,tailwind,vite,nodejs,supabase,firebase,mysql,git,github,postman,figma,vscode&perline=8"
+    alt="Technology stack"
   />
 </p>
 
-## Selected work
+## Featured experience
 
 ### Prologis Internal PWA
 
-Internal pilot application created to digitalize the collection and analysis of water and electricity readings.
+> Internal pilot application developed to digitalize the collection, consultation and analysis of water and electricity readings.
 
-- Historical reading registration and consultation
-- Four user roles with differentiated permissions
-- Historical data imports from Excel
-- Comparisons between reporting periods
-- Tracking of readings and maintenance incidents
+- Implemented four access roles with differentiated permissions
+- Added historical data imports from Excel
+- Created comparisons between reporting periods
+- Centralized the tracking of readings and maintenance incidents
 
-`React` `Vue.js` `Node.js` `Supabase` `Tailwind CSS`
+<p>
+  <img src="https://img.shields.io/badge/React-1976D2?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-56B870?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Node.js-3F9B5F?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Supabase-37A879?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+</p>
 
-> The source code is private because this project was developed for internal company use.
+> The source code is private because the application was developed for internal company use.
+
+## Selected projects
 
 ### FitLink
 
-Mobile application connected to an Arduino-based wearable for consulting activity and health measurements.
+Mobile application connected to an Arduino-based wearable for consulting activity and health measurements in real time.
 
-- Step and activity monitoring
-- BPM, blood pressure and oxygen readings
-- Real-time data synchronization
-- Charts and session history
-
-`JavaScript` `Apache Cordova` `Arduino` `Firebase`
+`JavaScript` `Cordova` `Arduino` `Firebase`
 
 ### Stenovy
 
-Mobile application for managing school attendance using unique QR codes.
+Mobile application for managing school attendance through unique QR codes and real-time updates.
 
-- QR scanning through the device camera
-- Digital student credentials
-- Real-time attendance updates
-- Messages and school announcements
-
-`JavaScript` `HTML5` `CSS3` `Apache Cordova` `Firebase`
+`JavaScript` `HTML5` `CSS3` `Cordova` `Firebase`
 
 ### Encinos Café & Bistro
 
-Responsive website for consulting a restaurant menu and managing online orders.
+Responsive website for viewing a restaurant menu and managing online orders.
 
-- Mobile-first interface
-- Digital menu
-- Product and order management
-- MySQL database integration
-
-`JavaScript` `PHP` `HTML5` `CSS3` `MySQL`
+`JavaScript` `PHP` `MySQL` `Responsive Design`
 
 <p align="center">
   <a href="https://portafoliofrann.netlify.app/">
-    <img src="https://img.shields.io/badge/View_my_projects-1976D2?style=for-the-badge&logo=github&logoColor=white" alt="View my projects">
+    <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="View all projects">
   </a>
 </p>
 
-## Current focus
+## Currently
 
-- Building cleaner and reusable frontend components
+- Improving my React and Vue.js development practices
 - Learning TypeScript and frontend testing
-- Improving accessibility and responsive design
-- Looking for a Junior Frontend Developer opportunity
+- Building accessible and responsive interfaces
+- Looking for a Junior Frontend Developer position
 
-## Contact
+## Connect
 
 <p align="center">
-  <a href="https://portafoliofrann.netlify.app/">Portfolio</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/fcoocarlos/">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:carlosfran.constantino@outlook.com">Email</a>
+  <a href="https://portafoliofrann.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-1976D2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/fcoocarlos/">
+    <img src="https://img.shields.io/badge/LinkedIn-42A5F5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:carlosfran.constantino@outlook.com">
+    <img src="https://img.shields.io/badge/Email-58B96F?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <p align="center">
