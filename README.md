@@ -1,91 +1,133 @@
 
+<!-- Profile dashboard -->
+
+<table>
+<tr>
+<td width="29%" valign="top">
+
 <p align="center">
   <img
-    src="./assets/windows.jpg"
-    width="100%"
-    alt="Carlos Constantino — Junior Frontend Developer"
+    src="https://github.com/frannnkkyy.png"
+    width="145"
+    alt="Carlos Constantino"
   />
 </p>
 
-<h1 align="center">Carlos Constantino</h1>
+<h3 align="center">Carlos Constantino</h3>
 
 <p align="center">
-  <strong>Junior Frontend Developer</strong><br>
-  Building responsive and functional web experiences
+  <sub>Junior Frontend Developer</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-1976D2?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-2196F3?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-56B870?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Remote-Available-65CFA3?style=flat-square" alt="Available for remote work">
+  <img src="https://img.shields.io/badge/Reynosa-Mexico-2188C9?style=flat-square" alt="Reynosa, Mexico">
+  <br>
+  <img src="https://img.shields.io/badge/English-B2-55A96A?style=flat-square" alt="English B2">
+  <br>
+  <img src="https://img.shields.io/badge/Remote-Available-65CFA3?style=flat-square" alt="Available remotely">
 </p>
 
-<p align="center">
+<br>
+
+<strong>Focus</strong>
+
+<sub>
+<br>Frontend Development
+<br>Responsive Interfaces
+<br>Web Applications
+<br>UI Implementation
+</sub>
+
+<br><br>
+
+<strong>Currently learning</strong>
+
+<sub>
+<br>TypeScript
+<br>Frontend Testing
+<br>Accessibility
+<br>Development Practices
+</sub>
+
+<br><br>
+
+<strong>Contact</strong>
+
+<p>
   <a href="https://portafoliofrann.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-1976D2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-1976D2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/fcoocarlos/">
-    <img src="https://img.shields.io/badge/LINKEDIN-42A5F5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-2382BA?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <br>
   <a href="mailto:carlosfran.constantino@outlook.com">
-    <img src="https://img.shields.io/badge/CONTACT-58B96F?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-4A9F65?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
 </p>
 
----
+</td>
 
-## Profile
+<td width="71%" valign="top">
+
+<img
+  src="./assets/header.png"
+  width="100%"
+  alt="Frutiger Aero landscape"
+/>
+
+<h3>About me</h3>
 
 I'm a Software Development graduate and **Junior Frontend Developer** based in Reynosa, Mexico.
 
-I create responsive web and mobile applications with JavaScript, React and Vue.js. I enjoy transforming real-world processes into interfaces that are clear, functional and pleasant to use.
+I build responsive web and mobile applications with **JavaScript, React and Vue.js**. I enjoy transforming real processes into interfaces that are clear, functional and pleasant to use.
 
-During my internship at **Prologis**, I developed and delivered a pilot internal PWA for managing and comparing historical water and electricity readings across different properties.
+During my internship at **Prologis**, I developed and delivered a pilot internal PWA for managing historical water and electricity readings across different properties.
 
-<table>
-  <tr>
-    <td><strong>Location</strong></td>
-    <td>Reynosa, Mexico</td>
-    <td><strong>English</strong></td>
-    <td>B2</td>
-  </tr>
-  <tr>
-    <td><strong>Focus</strong></td>
-    <td>Frontend Development</td>
-    <td><strong>Availability</strong></td>
-    <td>Remote opportunities</td>
-  </tr>
+<h3>Professional focus</h3>
+
+```javascript
+const carlos = {
+  role: "Junior Frontend Developer",
+  location: "Reynosa, Mexico",
+  frontend: ["JavaScript", "React", "Vue.js"],
+  interests: ["Responsive UI", "Web Apps", "UI/UX"],
+  availability: "Remote opportunities"
+};
+````
+
+<h3>Prologis experience</h3>
+
+Developed an internal pilot application that included:
+
+* Four access roles and differentiated permissions
+* Historical data imports from Excel
+* Comparisons between reporting periods
+* Reading and maintenance incident tracking
+
+`React` `Vue.js` `Node.js` `Supabase` `Tailwind CSS`
+
+<sub>
+The source code is private because the application was developed for internal company use.
+</sub>
+
+</td>
+</tr>
 </table>
+
+<br>
 
 ## Technology stack
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=js,react,vue,html,css,tailwind,vite,nodejs,supabase,firebase,mysql,git,github,postman,figma,vscode&perline=8"
+    src="https://skillicons.dev/icons?i=js,react,vue,html,css,tailwind,vite,nodejs,supabase,firebase,mysql,git,github,postman,figma,vscode&perline=16"
     alt="Technology stack"
   />
 </p>
 
-## Featured experience
-
-### Prologis Internal PWA
-
-> Internal pilot application developed to digitalize the collection, consultation and analysis of water and electricity readings.
-
-- Implemented four access roles with differentiated permissions
-- Added historical data imports from Excel
-- Created comparisons between reporting periods
-- Centralized the tracking of readings and maintenance incidents
-
-<p>
-  <img src="https://img.shields.io/badge/React-1976D2?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-56B870?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Node.js-3F9B5F?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Supabase-37A879?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-</p>
-
-> The source code is private because the application was developed for internal company use.
+<br>
 
 ## Selected projects
 
@@ -93,48 +135,66 @@ During my internship at **Prologis**, I developed and delivered a pilot internal
 
 Mobile application connected to an Arduino-based wearable for consulting activity and health measurements in real time.
 
-`JavaScript` `Cordova` `Arduino` `Firebase`
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-1D6FA5?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Arduino-278E91?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Firebase-4DAE70?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+</p>
+
+---
 
 ### Stenovy
 
-Mobile application for managing school attendance through unique QR codes and real-time updates.
+Mobile application for managing school attendance with QR scanning, digital credentials and real-time updates.
 
-`JavaScript` `HTML5` `CSS3` `Cordova` `Firebase`
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-1D6FA5?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Cordova-2382BA?style=flat-square&logo=apachecordova&logoColor=white" alt="Cordova">
+  <img src="https://img.shields.io/badge/Firebase-4DAE70?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+</p>
+
+---
 
 ### Encinos Café & Bistro
 
-Responsive website for viewing a restaurant menu and managing online orders.
+Responsive web platform for viewing a restaurant menu and managing online orders.
 
-`JavaScript` `PHP` `MySQL` `Responsive Design`
+<p>
+  <img src="https://img.shields.io/badge/PHP-287CAB?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-2587A5?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Responsive_UI-4DAE70?style=flat-square" alt="Responsive UI">
+</p>
+
+<br>
 
 <p align="center">
   <a href="https://portafoliofrann.netlify.app/">
-    <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-2196F3?style=for-the-badge&logo=github&logoColor=white" alt="View all projects">
+    <img src="https://img.shields.io/badge/VIEW_COMPLETE_PORTFOLIO-1976D2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio">
   </a>
 </p>
 
-## Currently
+<br>
 
-- Improving my React and Vue.js development practices
-- Learning TypeScript and frontend testing
-- Building accessible and responsive interfaces
-- Looking for a Junior Frontend Developer position
-
-## Connect
+## GitHub activity
 
 <p align="center">
-  <a href="https://portafoliofrann.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-1976D2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
-  <a href="https://www.linkedin.com/in/fcoocarlos/">
-    <img src="https://img.shields.io/badge/LinkedIn-42A5F5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:carlosfran.constantino@outlook.com">
-    <img src="https://img.shields.io/badge/Email-58B96F?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email">
-  </a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frannnkkyy&layout=compact&hide_border=true&bg_color=0d1117&title_color=65CFA3&text_color=c9d1d9"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frannnkkyy&layout=compact&hide_border=true&bg_color=ffffff&title_color=1976D2&text_color=263238"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=frannnkkyy&layout=compact&hide_border=true"
+      alt="Most used languages"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <sub>Building useful digital experiences, one component at a time.</sub>
+  <sub>Building useful digital experiences while continuously learning.</sub>
 </p>
 ```
