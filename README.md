@@ -1,153 +1,221 @@
+````markdown
+<!-- ╭──────────────────────────────────────────────╮
+     │  Welcome to Carlos' little corner of the web │
+     ╰──────────────────────────────────────────────╯ -->
 
-<!-- Frutiger Aero inspired header -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:32CD8A,50:4FC3F7,100:1976D2&text=Carlos%20Constantino&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Junior%20Frontend%20Developer&descAlignY=58&descSize=20"
-    alt="Carlos Constantino - Junior Frontend Developer"
+    src="./assets/frutiger-aero-banner.png"
+    alt="Frutiger Aero landscape with a friendly digital assistant"
     width="100%"
   />
 </p>
 
+<h1 align="center">☁️ Hi, I'm Carlos Constantino 🌱</h1>
+
+<h3 align="center">
+  Junior Frontend Developer · React · Vue.js · JavaScript
+</h3>
+
+<p align="center">
+  I build responsive and functional digital experiences from Reynosa, Mexico.
+</p>
+
 <p align="center">
   <a href="https://portafoliofrann.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20work-32CD8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_my_work-65CFA3?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/fcoocarlos/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-4AADE8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:carlosfran.constantino@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-4FC3F7?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/✉️_Email-Say_hello-80D8FF?style=for-the-badge" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  🌎 Reynosa, Mexico &nbsp;•&nbsp; 💻 Open to remote opportunities &nbsp;•&nbsp; 🇬🇧 English B2
+  🌎 Reynosa, Mexico &nbsp;·&nbsp;
+  💻 Open to remote work &nbsp;·&nbsp;
+  🇬🇧 English B2
 </p>
 
 ---
 
-## 🌱 About me
+## 🖥️ Welcome!
 
-I'm a **Junior Frontend Developer** and Software Development graduate focused on building responsive, accessible and functional web and mobile applications.
+> 📎 **Your digital assistant says:**  
+> “Carlos is a Junior Frontend Developer who enjoys turning real-world processes into clear, friendly and functional digital experiences.”
 
-During my internship at **Prologis**, I developed and delivered a pilot internal PWA for capturing, consulting and comparing historical water and electricity readings. The system included four access roles, differentiated permissions and historical data imports from Excel.
+I'm a Software Development graduate with hands-on experience building web and mobile applications using **JavaScript, React, Vue.js, Node.js, Supabase and Firebase**.
 
-I enjoy transforming real processes into clear digital experiences and continuously improving the way I build software.
+During my internship at **Prologis**, I developed and delivered a pilot internal PWA for capturing, consulting and comparing historical water and electricity readings.
 
-- 🔭 Currently improving my frontend portfolio
-- 🌿 Learning TypeScript, testing and frontend best practices
-- 🎨 Interested in responsive interfaces and UI/UX
-- 🤝 Looking for a Junior Frontend Developer or Software Developer Trainee position
-- 🏡 Available for remote opportunities
-
-## 🫧 Tech stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,vue,html,css,tailwind,vite" alt="Frontend technologies"/>
-</p>
-
-### Backend and databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,mysql,php" alt="Backend and database technologies"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,figma,vscode" alt="Development tools"/>
-</p>
-
-## 🌊 Featured projects
-
-### ⚡ Prologis Internal PWA
-
-Pilot internal application for capturing and analyzing historical water and electricity readings across different properties.
-
-**Highlights**
+The system included:
 
 - Four access roles with differentiated permissions
 - Historical data imports from Excel
 - Comparisons between reporting periods
 - Centralized tracking of readings and maintenance incidents
 
-**Technologies:** React, Vue.js, Node.js, Supabase and Tailwind CSS
+I enjoy combining clean interfaces, useful functionality and continuous learning to create software that feels simple and pleasant to use.
 
-> The source code is private because the application was developed for an internal company project.
+---
 
-### 💚 FitLink
+## 🌿 Currently growing
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│  STATUS: Available for remote opportunities              │
+├──────────────────────────────────────────────────────────┤
+│  🌱 Improving my React and Vue.js skills                 │
+│  🧪 Learning TypeScript and frontend testing             │
+│  🎨 Building responsive and accessible interfaces        │
+│  🤝 Looking for a Junior Frontend Developer position     │
+╰──────────────────────────────────────────────────────────╯
+````
+
+---
+
+## 🫧 My tech garden
+
+### ☀️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,vue,html,css,tailwind,vite" alt="JavaScript, React, Vue, HTML, CSS, Tailwind and Vite"/>
+</p>
+
+### 🌊 Backend and data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase,mysql,php" alt="Node.js, Supabase, Firebase, MySQL and PHP"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,figma,vscode" alt="Git, GitHub, GitLab, Docker, Postman, Figma and Visual Studio Code"/>
+</p>
+
+---
+
+## 💾 Selected projects
+
+<details open>
+<summary><strong>⚡ Prologis Internal PWA</strong></summary>
+<br>
+
+Pilot internal application for capturing and analyzing historical water and electricity readings across different properties.
+
+**What I worked on**
+
+* User interfaces for capturing and consulting readings
+* Four access roles and differentiated permissions
+* Historical data imports from Excel
+* Comparisons between reporting periods
+* Maintenance reading and incident tracking
+
+**Built with:** React · Vue.js · Node.js · Supabase · Tailwind CSS
+
+> 🔒 The source code is private because the application was developed for an internal company project.
+
+</details>
+
+<details>
+<summary><strong>💚 FitLink — Wearable companion app</strong></summary>
+<br>
 
 Mobile application connected to an Arduino-based wearable for displaying health and activity measurements.
 
-**Highlights**
+**Main features**
 
-- Steps and activity monitoring
-- BPM, blood pressure and oxygen measurements
-- Real-time data synchronization
-- Charts and session history
+* Step and activity monitoring
+* BPM, blood pressure and oxygen measurements
+* Real-time synchronization
+* Charts and session history
 
-**Technologies:** JavaScript, Apache Cordova, Arduino and Firebase Realtime Database
+**Built with:** JavaScript · Apache Cordova · Arduino · Firebase Realtime Database
 
-### 🎓 Stenovy
+</details>
+
+<details>
+<summary><strong>🎓 Stenovy — School attendance app</strong></summary>
+<br>
 
 Mobile application designed to simplify school attendance management using unique QR codes.
 
-**Highlights**
+**Main features**
 
-- QR scanning through the device camera
-- Digital student credentials
-- Real-time attendance updates
-- Messages and school announcements
+* QR scanning through the device camera
+* Digital student credentials
+* Real-time attendance updates
+* Messages and school announcements
 
-**Technologies:** JavaScript, HTML5, CSS3, Apache Cordova and Firebase
+**Built with:** JavaScript · HTML5 · CSS3 · Apache Cordova · Firebase
 
-### ☕ Encinos Café & Bistro
+</details>
+
+<details>
+<summary><strong>☕ Encinos Café & Bistro</strong></summary>
+<br>
 
 Responsive web platform for viewing a restaurant menu and managing online orders.
 
-**Highlights**
+**Main features**
 
-- Mobile-first responsive interface
-- Digital menu
-- Product and order management
-- MySQL database integration
+* Mobile-first responsive interface
+* Digital menu
+* Product and order management
+* MySQL database integration
 
-**Technologies:** JavaScript, PHP, HTML5, CSS3 and MySQL
+**Built with:** JavaScript · PHP · HTML5 · CSS3 · MySQL
+
+</details>
 
 <p align="center">
+  <br>
   <a href="https://portafoliofrann.netlify.app/">
-    <strong>Explore my portfolio →</strong>
+    <img src="https://img.shields.io/badge/Explore_all_projects_→-1976D2?style=for-the-badge" alt="Explore my projects"/>
   </a>
 </p>
 
-## ☀️ What I'm working toward
+---
 
-```text
-Responsive interfaces     ███████████████████░
-Clean and reusable code   █████████████████░░░
-Testing and TypeScript    ███████████░░░░░░░░░
-Continuous learning       ████████████████████
-````
+## 🌈 A little more about me
 
-## 💧 Let's connect
+```javascript
+const carlos = {
+  role: "Junior Frontend Developer",
+  location: "Reynosa, Mexico",
+  education: "Software Development and Management Engineering",
+  technologies: ["JavaScript", "React", "Vue.js", "Node.js"],
+  interests: ["Frontend", "Responsive Design", "UI/UX", "IoT"],
+  learning: ["TypeScript", "Testing", "Frontend best practices"],
+  availableFor: "Remote opportunities",
+  motto: "Build useful things and keep growing 🌱"
+};
+```
 
-I'm interested in collaborating on frontend projects and joining a team where I can contribute, learn and grow as a developer.
+---
 
-* Portfolio: [portafoliofrann.netlify.app](https://portafoliofrann.netlify.app/)
-* LinkedIn: [linkedin.com/in/fcoocarlos](https://www.linkedin.com/in/fcoocarlos/)
-* Email: [carlosfran.constantino@outlook.com](mailto:carlosfran.constantino@outlook.com)
+## 📬 Let's connect
+
+I'm interested in joining a team where I can contribute, learn from experienced developers and continue growing as a frontend developer.
 
 <p align="center">
-  <i>Building useful digital experiences, one component at a time.</i> 🌱
+  <a href="https://portafoliofrann.netlify.app/">🌐 Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/fcoocarlos/">💼 LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:carlosfran.constantino@outlook.com">✉️ Email</a>
+</p>
+
+<br>
+
+<p align="center">
+  <i>“Building useful digital experiences, one component at a time.”</i>
 </p>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1976D2,50:4FC3F7,100:32CD8A"
-    alt=""
-    width="100%"
-  />
+  ☁️ 🫧 🌱 💧
 </p>
 ```
