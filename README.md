@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="./assets/frutiger-aero-banner.png"
+    src="./assets/windows.png"
     alt="Frutiger Aero landscape with a friendly digital assistant"
     width="100%"
   />
