@@ -236,47 +236,6 @@ Multiplatform Software Development · 2022–2024
 <br>
 
 <h2>
-  <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%23E7B93E" width="23" alt="">
-  GitHub activity
-</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=frannnkkyy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=65CFA3&text_color=c9d1d9&icon_color=42A5F5"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=frannnkkyy&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1976D2&text_color=263238&icon_color=58B96F"
-    />
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=frannnkkyy&show_icons=true&hide_border=true"
-      alt="Carlos's GitHub statistics"
-    />
-  </picture>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frannnkkyy&layout=compact&hide_border=true&bg_color=0d1117&title_color=65CFA3&text_color=c9d1d9"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frannnkkyy&layout=compact&hide_border=true&bg_color=ffffff&title_color=1976D2&text_color=263238"
-    />
-    <img
-      width="43%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=frannnkkyy&layout=compact&hide_border=true"
-      alt="Carlos's most used languages"
-    />
-  </picture>
-</p>
-
-<br>
-
-<h2>
   <img src="https://api.iconify.design/lucide:send.svg?color=%2342A5F5" width="23" alt="">
   Let's connect
 </h2>
@@ -293,10 +252,6 @@ I'm interested in joining a team where I can contribute, learn from experienced 
   <a href="mailto:carlosfran.constantino@outlook.com">
     <img src="https://img.shields.io/badge/Email-58B96F?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
-</p>
-
-<p align="center">
-  <sub>Building useful digital experiences, one component at a time.</sub>
 </p>
 
 <p align="center">
