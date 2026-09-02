@@ -167,7 +167,7 @@ Responsive web platform created for consulting a restaurant menu and managing on
 </p>
 
 <p align="center">
-  <a href="https://portafoliofrann.netlify.app/">
+  <a href="https://portafoliofrann.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/VIEW_COMPLETE_PORTFOLIO-1976D2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View complete portfolio">
   </a>
 </p>
