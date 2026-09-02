@@ -219,18 +219,6 @@ Multiplatform Software Development · 2022–2024
 
 <br>
 
-<h2>
-  <img src="https://api.iconify.design/lucide:sprout.svg?color=%2358B96F" width="23" alt="">
-  Current focus
-</h2>
-
-- Improving my React and Vue.js development practices
-- Learning TypeScript and frontend testing
-- Building more accessible and responsive interfaces
-- Documenting my projects with better READMEs and demos
-- Looking for a remote junior development opportunity
-
-<br>
 
 <h2>
   <img src="https://api.iconify.design/lucide:send.svg?color=%2342A5F5" width="23" alt="">
