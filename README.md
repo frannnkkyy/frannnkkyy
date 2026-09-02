@@ -1,4 +1,4 @@
-````markdown
+
 <!-- Frutiger Aero inspired header -->
 <p align="center">
   <img
