@@ -123,7 +123,7 @@ Web application developed to automate and standardize academic planning workflow
   <img src="https://img.shields.io/badge/React-276FA3?style=flat-square&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Tailwind_CSS-2884AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/MySQL-287F9E?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Responsive_Design-58A96A?style=flat-square" alt="Responsive Design">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 ---
