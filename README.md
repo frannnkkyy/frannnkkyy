@@ -65,12 +65,12 @@ Developed and delivered a pilot PWA to digitalize the collection and analysis of
 - Added historical data imports from Excel
 - Developed comparisons between reporting periods
 - Centralized the tracking of readings and maintenance incidents
-- Connected the user interface with Node.js and Supabase services
+- Connected the application interfaces with Supabase authentication, database, storage and access-control services.
 
 <p>
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React-1976D2?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-50A66A?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Node.js-3F9257?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Supabase-36A878?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
   <img src="https://img.shields.io/badge/Tailwind_CSS-238FC1?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </p>
@@ -116,8 +116,10 @@ Web application developed to automate and standardize academic planning workflow
 
 <p>
   <img src="https://img.shields.io/badge/React-276FA3?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-2884AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/MySQL-287F9E?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Vite-6557C2?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Node.js-3F9257?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-4A5568?style=flat-square&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/SQL_Server-B44747?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
