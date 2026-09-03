@@ -46,7 +46,7 @@ During my internship at **Prologis**, I developed and delivered a pilot internal
 
 I enjoy understanding how a real process works, identifying what can be simplified and transforming it into an interface that feels clear and easy to use. My background also includes IT support, ServiceNow, databases, technical documentation and UI design.
 
-I'm currently looking for a **Junior Frontend Developer**, **Web Developer** or **Software Developer Trainee** position where I can contribute while continuing to learn from an experienced development team.
+I'm currently looking for a Junior Frontend Developer, Web Developer or Software Developer opportunity where I can contribute to real projects while continuing to grow as a developer.
 
 <br>
 
@@ -105,23 +105,25 @@ June 2024 – December 2024
   Selected projects
 </h2>
 
-### FitLink — Wearable companion application
 
-Mobile application connected to an Arduino-based wearable for displaying health and activity information.
+### FitLink — IoT wearable & mobile application
+
+Mobile application connected to an Arduino-based wearable for monitoring and visualizing health and activity data.
 
 **Features**
 
 - Step and activity monitoring
-- BPM, blood pressure and oxygen readings
-- Real-time data synchronization
-- Pulse and oxygen charts
-- Previous session history
+- BPM, blood pressure and blood oxygen readings
+- Real-time data synchronization with Firebase
+- Pulse and oxygen data visualization
+- Previous measurement session history
+- Integration with an Arduino-based wearable
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-276FA3?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Apache_Cordova-2884AC?style=flat-square&logo=apachecordova&logoColor=white" alt="Apache Cordova">
-  <img src="https://img.shields.io/badge/Arduino-319B98?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Firebase-E0A92F?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/React_Native-Mobile-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-Platform-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/Arduino-Wearable-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Firebase-Realtime_Database-E0A92F?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
 </p>
 
 ---
