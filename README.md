@@ -173,24 +173,27 @@ Mobile application developed with Apache Cordova to manage student attendance th
 
 ---
 
-### Encinos Café & Bistro — Menu and ordering website
+### Encinos Café & Bistro — Restaurant website
 
-Responsive web platform created for consulting a restaurant menu and managing online orders.
+Responsive multi-page website for a restaurant, focused on presenting its menu and visual identity through a mobile-friendly interface.
 
 **Features**
 
-- Responsive mobile-first interface
+- Responsive mobile-friendly interface
 - Digital restaurant menu
-- Product administration
-- Online order management
-- MySQL database integration
+- Multi-page navigation
+- Restaurant information and visual content
+- Organized frontend architecture
+- Validation and production build workflow
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-276FA3?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-5473A5?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-287F9E?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/HTML5-E46C38?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-287FBA?style=flat-square&logo=css&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Responsive_Design-58A96A?style=flat-square" alt="Responsive Design">
 </p>
+
+---
 
 <p align="center">
   <a href="https://portafoliofrann.netlify.app/" target="_blank">
