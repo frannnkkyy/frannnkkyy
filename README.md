@@ -40,7 +40,7 @@
 
 I'm a Junior Software Developer with an Engineering degree in Software Development and Management. I build web, mobile and progressive web applications that connect interfaces with services, databases and real-time information.
 
-During my internship at Prologis, I developed an internal PWA pilot to centralize the capture, validation and consultation of water and electricity readings. My experience also includes Firebase, Supabase, Arduino, IT support, technical documentation and interface design.
+During my internship at Prologis, I developed an internal PWA pilot to centralize the capture, validation and consultation of water and electricity readings. My experience also includes Firebase, Supabase, Arduino, basic IT support, technical documentation and interface design.
 
 I'm currently seeking remote opportunities as a Junior Software Developer, where I can contribute to useful applications while continuing to grow professionally.
 
@@ -82,10 +82,10 @@ Developed and delivered a pilot PWA to digitalize the collection and analysis of
 **IT Intern — Remote**  
 September 2024 – November 2024
 
--Developed a prototype for an online learning platform using React, JavaScript, Tailwind CSS and Firebase.
--Built interfaces for course navigation, learning progress and certificates.
--Configured Firebase for authentication and data storage.
--Completed basic ServiceNow configuration and familiarization exercises.
+- Developed a prototype for an online learning platform using React, JavaScript, Tailwind CSS and Firebase.
+- Built interfaces for course navigation, learning progress and certificates.
+- Configured Firebase for authentication and data storage.
+- Completed basic ServiceNow configuration and familiarization exercises.
 
 <p>
   <img src="https://img.shields.io/badge/ServiceNow-4C9B64?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow">
@@ -127,16 +127,15 @@ Web application developed to automate and standardize academic planning workflow
 
 ### FitLink — IoT wearable & mobile application
 
-Mobile application connected to an Arduino-based wearable for monitoring and visualizing health and activity data.
+Mobile application developed with React Native and Expo, connected to an Arduino-based wearable prototype for displaying physical activity and sensor data.
 
 **Features**
 
-- Step and activity monitoring
-- BPM, blood pressure and blood oxygen readings
-- Real-time data synchronization with Firebase
-- Pulse and oxygen data visualization
+- Step and physical activity tracking
+- Heart-rate and sensor-data visualization
+- Real-time synchronization with Firebase
 - Previous measurement session history
-- Integration with an Arduino-based wearable
+- Integration with an Arduino-based wearable prototype
 
 <p>
   <img src="https://img.shields.io/badge/React_Native-276FA3?style=flat-square&logo=react&logoColor=white" alt="React Native">
@@ -251,7 +250,7 @@ Multiplatform Software Development · 2022–2024
   Let's connect
 </h2>
 
-I'm interested in joining a team where I can contribute, learn from experienced developers and continue growing as a frontend developer.
+I'm interested in joining a team where I can contribute to web, mobile and process-focused software projects, learn from experienced developers and continue growing as a software developer.
 
 <p align="center">
   <a href="https://portafoliofrann.netlify.app/">
