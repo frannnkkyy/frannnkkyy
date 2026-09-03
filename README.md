@@ -120,10 +120,10 @@ Mobile application connected to an Arduino-based wearable for monitoring and vis
 - Integration with an Arduino-based wearable
 
 <p>
-  <img src="https://img.shields.io/badge/React_Native-Mobile-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React Native">
-  <img src="https://img.shields.io/badge/Expo-Platform-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
-  <img src="https://img.shields.io/badge/Arduino-Wearable-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Firebase-Realtime_Database-E0A92F?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/React_Native-276FA3?style=flat-square&logo=react&logoColor=white" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-555555?style=flat-square&logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/Arduino-319B98?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Firebase-E0A92F?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
 </p>
 
 ---
