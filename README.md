@@ -12,7 +12,7 @@
 <h1 align="center">Carlos Constantino</h1>
 
 <p align="center">
-  <strong>Junior Frontend Developer</strong><br>
+  <strong>Junior Software Developer</strong><br>
   React · Vue.js · JavaScript · Responsive Web Development
 </p>
 
@@ -38,7 +38,7 @@
   About me
 </h2>
 
-I'm a Software Development graduate and **Junior Frontend Developer** based in Reynosa, Mexico.
+I'm a Software Development graduate and **Junior Software  Developer** based in Reynosa, Mexico.
 
 My work focuses on building responsive web and mobile applications with **JavaScript, React and Vue.js**, connecting user interfaces with services, databases and real-time information.
 
