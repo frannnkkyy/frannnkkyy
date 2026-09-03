@@ -13,7 +13,7 @@
 
 <p align="center">
   <strong>Junior Software Developer</strong><br>
-  React · Vue.js · JavaScript · Responsive Web Development
+ Web · Mobile · PWA · JavaScript · TypeScript · React · Next.js
 </p>
 
 
@@ -38,15 +38,11 @@
   About me
 </h2>
 
-I'm a Software Development graduate and **Junior Software  Developer** based in Reynosa, Mexico.
+I'm a Junior Software Developer with an Engineering degree in Software Development and Management. I build web, mobile and progressive web applications that connect interfaces with services, databases and real-time information.
 
-My work focuses on building responsive web and mobile applications with **JavaScript, React and Vue.js**, connecting user interfaces with services, databases and real-time information.
+During my internship at Prologis, I developed an internal PWA pilot to centralize the capture, validation and consultation of water and electricity readings. My experience also includes Firebase, Supabase, Arduino, IT support, technical documentation and interface design.
 
-During my internship at **Prologis**, I developed and delivered a pilot internal PWA designed to digitalize the capture, consultation and historical analysis of water and electricity readings across different properties.
-
-I enjoy understanding how a real process works, identifying what can be simplified and transforming it into an interface that feels clear and easy to use. My background also includes IT support, ServiceNow, databases, technical documentation and UI design.
-
-I'm currently looking for a Junior Frontend Developer, Web Developer or Software Developer opportunity where I can contribute to real projects while continuing to grow as a developer.
+I'm currently seeking remote opportunities as a Junior Software Developer, where I can contribute to useful applications while continuing to grow professionally.
 
 <br>
 
@@ -81,16 +77,15 @@ Developed and delivered a pilot PWA to digitalize the collection and analysis of
 
 > The source code is private because the application was developed for internal company use.
 
-### ServiceNow Project
+### Ipsum Technology
 
 **IT Intern — Remote**  
-June 2024 – December 2024
+September 2024 – November 2024
 
-- Configured basic ServiceNow functionalities
-- Managed incidents and requests through tickets
-- Adjusted simple workflows and business rules
-- Configured user interface policies in a practice environment
-- Collaborated remotely and documented technical processes
+-Developed a prototype for an online learning platform using React, JavaScript, Tailwind CSS and Firebase.
+-Built interfaces for course navigation, learning progress and certificates.
+-Configured Firebase for authentication and data storage.
+-Completed basic ServiceNow configuration and familiarization exercises.
 
 <p>
   <img src="https://img.shields.io/badge/ServiceNow-4C9B64?style=flat-square&logo=servicenow&logoColor=white" alt="ServiceNow">
