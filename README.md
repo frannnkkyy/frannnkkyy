@@ -105,6 +105,28 @@ June 2024 – December 2024
   Selected projects
 </h2>
 
+### Academic Planning Dashboard — Academic planning automation platform
+
+Web application developed to automate and standardize academic planning workflows by transforming institutional documents into structured and reusable information.
+
+**Features**
+
+- PDF and Word document processing
+- Automatic extraction of academic information
+- Preview and correction of extracted data
+- Academic planning history and status tracking
+- Search, filtering and grouping tools
+- Automatic report and Excel generation
+- Academic progress visualization
+
+<p>
+  <img src="https://img.shields.io/badge/React-276FA3?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-2884AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/MySQL-287F9E?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Responsive_Design-58A96A?style=flat-square" alt="Responsive Design">
+</p>
+
+---
 
 ### FitLink — IoT wearable & mobile application
 
@@ -128,22 +150,24 @@ Mobile application connected to an Arduino-based wearable for monitoring and vis
 
 ---
 
-### Stenovy — School attendance application
+### Stenovy — School attendance mobile application
 
-Mobile application designed to manage school attendance through unique QR codes assigned to each student.
+Mobile application developed with Apache Cordova to manage student attendance through unique QR codes assigned to each student.
 
 **Features**
 
-- QR scanning through the device camera
+- QR code scanning through the device camera
+- Unique QR identification for each student
 - Digital student credentials
-- Real-time attendance updates
+- Real-time attendance registration
 - Student information management
 - Messages and school announcements
+- Firebase data synchronization
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-276FA3?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Apache_Cordova-2884AC?style=flat-square&logo=apachecordova&logoColor=white" alt="Apache Cordova">
   <img src="https://img.shields.io/badge/HTML5-E46C38?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-287FBA?style=flat-square&logo=css&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Firebase-E0A92F?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
 </p>
 
